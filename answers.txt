@@ -5,3 +5,7 @@ Answer: Git is useful for working on team projects with multiple developers. By 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied to public policy. For example, analyzing large datasets on city crime data could help legislators find patterns that inform new laws to prevent crime.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines all of the changes from a feature branch with the current branch. On the other hand, rebasing moves a sequence of commits from another branch to a new base commit later in the current branch.
