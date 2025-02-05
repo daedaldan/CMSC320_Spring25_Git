@@ -9,3 +9,7 @@ Answer: Data science could be applied to public policy. For example, analyzing l
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines all of the changes from a feature branch with the current branch. On the other hand, rebasing moves a sequence of commits from another branch to a new base commit later in the current branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning how to apply some of the most useful machine learning models.
